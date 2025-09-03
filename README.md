@@ -1,1 +1,1 @@
-# practical-11-t-20
+# practicals
